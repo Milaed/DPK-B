@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-comic-sans-ms: "Comic Sans MS";
+  --font-rye: Rye;
+  --font-ntr: NTR;
+  --font-inter: Inter;
+  --font-paytone-one: "Paytone One";
+
+  /* font sizes */
+  --font-size-77xl: 96px;
+  --font-size-45xl: 64px;
+  --font-size-29xl: 48px;
+  --font-size-5xl: 24px;
+  --font-size-13xl: 32px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-peru: #d39a4c;
+}

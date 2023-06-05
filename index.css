@@ -1,0 +1,418 @@
+.image-1-icon,
+.image-21-icon {
+  position: absolute;
+  top: 11132px;
+  left: 0;
+  width: 1972px;
+  height: 767px;
+  object-fit: cover;
+}
+.image-1-icon {
+  top: 45px;
+  width: 292px;
+  height: 62px;
+}
+.coffee {
+  position: absolute;
+  top: 107px;
+  left: 125px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-paytone-one);
+}
+.image-3-icon {
+  position: absolute;
+  top: 500px;
+  left: 1141px;
+  width: 605px;
+  height: 132px;
+  object-fit: cover;
+}
+.coffee1,
+.rel-menu {
+  position: absolute;
+  display: inline-block;
+}
+.coffee1 {
+  top: 632px;
+  left: 1423px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-paytone-one);
+  width: 106px;
+  height: 49px;
+}
+.rel-menu {
+  top: 2816px;
+  left: 803px;
+  font-size: 60px;
+  font-family: var(--font-comic-sans-ms);
+  color: var(--color-peru);
+  width: 394px;
+  height: 170px;
+}
+.desktop-1-child,
+.desktop-1-inner {
+  position: absolute;
+  top: 4946px;
+  left: 0;
+  width: 2108px;
+  height: 22px;
+}
+.desktop-1-inner {
+  top: 7381px;
+  width: 1982px;
+  height: 16px;
+}
+.image-14-icon,
+.whatsapp-image-2023-05-12-at-1 {
+  position: absolute;
+  top: 11421px;
+  left: 142px;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.whatsapp-image-2023-05-12-at-1 {
+  top: 11666px;
+  left: 145px;
+  width: 73px;
+  height: 73px;
+}
+.div,
+.rel-coffee-purwokerto,
+.relcoffee {
+  position: absolute;
+  top: 11437px;
+  left: 278px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  width: 650px;
+  height: 91px;
+}
+.rel-coffee-purwokerto,
+.relcoffee {
+  top: 11559px;
+}
+.rel-coffee-purwokerto {
+  top: 11681px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 11925px;
+  left: -104px;
+  background-color: var(--color-peru);
+  width: 2090px;
+  height: 21px;
+}
+.image-16-icon {
+  position: absolute;
+  top: 1154px;
+  left: 0;
+  width: 2039px;
+  height: 1580px;
+  object-fit: cover;
+}
+.best {
+  margin: 0;
+}
+.best-coffee-great-container {
+  position: absolute;
+  top: 1154px;
+  left: 530px;
+  font-size: 128px;
+  display: inline-block;
+  font-weight: 700;
+  font-family: var(--font-inter);
+  color: #fff8ef;
+  text-align: center;
+  width: 1064px;
+}
+.image-17-icon {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  width: 2719px;
+  height: 1154px;
+  object-fit: cover;
+}
+.ellipse-icon {
+  position: absolute;
+  top: 0;
+  left: 987px;
+  width: 995px;
+  height: 442px;
+  mix-blend-mode: darken;
+}
+.menu,
+.ruangan,
+.tentang-kami {
+  position: absolute;
+  top: 57px;
+  left: 1176px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-ntr);
+  color: var(--color-white);
+  cursor: pointer;
+}
+.ruangan,
+.tentang-kami {
+  left: 1709px;
+}
+.ruangan {
+  left: 1444px;
+}
+.start-your-day,
+.tasty-product {
+  position: absolute;
+  display: inline-block;
+}
+.start-your-day {
+  top: 544px;
+  left: 91px;
+  font-size: 40px;
+  color: #845c2b;
+  width: 1168px;
+  height: 225px;
+}
+.tasty-product {
+  top: 2901px;
+  left: 614px;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-comic-sans-ms);
+  width: 772px;
+  height: 400px;
+}
+.kopi-matahari-25-container {
+  position: absolute;
+  top: 3294px;
+  left: 642px;
+  display: inline-block;
+  width: 806px;
+  height: 248px;
+}
+.image-4-icon {
+  position: absolute;
+  top: 3226px;
+  left: 183px;
+  width: 345px;
+  height: 329px;
+  object-fit: cover;
+}
+.image-5-icon,
+.image-6-icon,
+.image-7-icon {
+  position: absolute;
+  top: 3628px;
+  left: 195px;
+  width: 333px;
+  height: 343px;
+  object-fit: cover;
+}
+.image-6-icon,
+.image-7-icon {
+  top: 4044px;
+  left: 180px;
+  width: 352px;
+  height: 360px;
+}
+.image-7-icon {
+  top: 4495px;
+  left: 191px;
+  width: 337px;
+}
+.kopi-polos-20-container,
+.kopi-silinder-25-container {
+  position: absolute;
+  top: 3698px;
+  left: 642px;
+  display: inline-block;
+  width: 550px;
+  height: 216px;
+}
+.kopi-polos-20-container {
+  top: 4113px;
+  width: 760px;
+  height: 221px;
+}
+.kopi-dari-hati-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.kopi-dari-hati-25-k-wrapper {
+  position: absolute;
+  top: 4559px;
+  left: 642px;
+  width: 301px;
+  height: 134px;
+}
+.croissant-vegetables-35-k-wrapper,
+.our-menu {
+  position: absolute;
+  top: 5483px;
+  left: 861px;
+  width: 504px;
+  height: 134px;
+}
+.our-menu {
+  top: 5098px;
+  left: 834px;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-comic-sans-ms);
+  display: inline-block;
+  width: 772px;
+  height: 400px;
+}
+.image-10-icon,
+.image-11-icon,
+.image-13-icon {
+  position: absolute;
+  top: 5368px;
+  left: 166px;
+  width: 600px;
+  height: 400px;
+  object-fit: cover;
+}
+.image-11-icon,
+.image-13-icon {
+  top: 5768px;
+}
+.image-13-icon {
+  top: 6654px;
+}
+.db-choco-15-k-wrapper {
+  position: absolute;
+  top: 5907px;
+  left: 883px;
+  width: 504px;
+  height: 134px;
+}
+.choco-balls-8-container {
+  position: absolute;
+  top: 6331px;
+  left: 892px;
+}
+.croissant-strawberry-35-container,
+.vector-icon {
+  position: absolute;
+  top: 6787px;
+  left: 883px;
+}
+.vector-icon {
+  top: 5708.5px;
+  left: 1460.5px;
+  width: 93.5px;
+  height: 109.5px;
+}
+.image-12-icon,
+.ruangan1 {
+  position: absolute;
+  height: 400px;
+}
+.image-12-icon {
+  top: 6207px;
+  left: 165px;
+  width: 600px;
+  object-fit: cover;
+}
+.ruangan1 {
+  top: 7467px;
+  left: 820px;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-comic-sans-ms);
+  display: inline-block;
+  width: 772px;
+}
+.indoor,
+.outdoor,
+.smoking-room-ac {
+  position: absolute;
+  top: 8089px;
+  left: 1371px;
+  font-size: var(--font-size-45xl);
+  display: inline-block;
+  width: 373px;
+  height: 135px;
+}
+.indoor,
+.smoking-room-ac {
+  top: 9152px;
+  left: 1372px;
+}
+.smoking-room-ac {
+  top: 10293px;
+  left: 1371px;
+  width: 601px;
+  height: 117px;
+}
+.desktop-1-child1 {
+  position: absolute;
+  top: 11106px;
+  left: 0;
+  background-color: var(--color-peru);
+  width: 1982px;
+  height: 16px;
+}
+.tentang-kami1 {
+  position: absolute;
+  top: 11189px;
+  left: 662px;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-comic-sans-ms);
+  display: inline-block;
+  width: 657px;
+  height: 236px;
+}
+.whatsapp-image-2023-05-12-at-11 {
+  position: absolute;
+  top: 8750px;
+  left: 218px;
+  width: 827px;
+  height: 940px;
+  object-fit: cover;
+}
+.whatsapp-image-2023-05-12-at-12,
+.whatsapp-image-2023-05-12-at-13 {
+  position: absolute;
+  top: 9853px;
+  left: 218px;
+  width: 827px;
+  height: 997px;
+  object-fit: cover;
+}
+.whatsapp-image-2023-05-12-at-13 {
+  top: 7727px;
+  left: 219px;
+  width: 826px;
+  height: 891px;
+}
+.image-18-icon,
+.image-22-icon,
+.image-23-icon {
+  position: absolute;
+  top: 7381px;
+  left: 0;
+  width: 2034px;
+  height: 3725px;
+  object-fit: cover;
+}
+.image-18-icon,
+.image-22-icon {
+  top: 4964px;
+  width: 1982px;
+  height: 2418px;
+}
+.image-18-icon {
+  top: 2733px;
+  height: 2217px;
+}
+.desktop-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 11946px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-rye);
+}
